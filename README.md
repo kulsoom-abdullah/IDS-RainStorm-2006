@@ -1,10 +1,8 @@
 # Network Security Visualization
-These are the java and class files for the prototype I coded for my PhD thesis.  Final version year 2006.
-Currently, I have not gotten the current JOGL (Java OpenGL) jar files to work with this code and be able to run the Demo for today in 2016.
-
-I am including a PDF file of slides that describe the project, and includes screenshots of this and the next security viz project I worked on post PhD with a PhD then student Troy Nunnaly.
-
-Here is a link to the same slides on SlideShare:
-http://www.slideshare.net/KulsoomAbdullah/phd-and-post-phd-network-security-visualization-research
-
 ![Alt text](https://github.com/kulsoom-abdullah/NetworkSecurityVisualization/blob/master/screenshots/Slide09.png "Optional Title")
+
+This respository contains the following:
+* main folder - contains the Java and JOGL (Java OPENGL extensions) code for the prototype I developed for my PhD thesis, called, IDS RainStorm.
+* screenshots folder - contains a few screenshots of the visual tool 
+* screenshots_presentation.pdf - Is a presentation that describes the IDS Rainstorm tool, the prototype, as well as screenshots of use cases.  Also described is another network security visualization tool I worked on post PhD with then PhD student Troy Nunnaly which he developed for his thesis.
+
