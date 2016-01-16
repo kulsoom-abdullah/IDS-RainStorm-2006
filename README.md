@@ -1,4 +1,4 @@
-# IDS-RainStorm-2006
+# Network Security Visualization
 These are the java and class files for the prototype I coded for my PhD thesis.  Final version year 2006.
 Currently, I have not gotten the current JOGL (Java OpenGL) jar files to work with this code and be able to run the Demo for today in 2016.
 
