@@ -6,3 +6,5 @@ I am including a PDF file of slides that describe the project, and includes scre
 
 Here is a link to the same slides on SlideShare:
 http://www.slideshare.net/KulsoomAbdullah/phd-and-post-phd-network-security-visualization-research
+
+![Alt text](https://github.com/kulsoom-abdullah/NetworkSecurityVisualization/blob/master/screenshots/Slide09.png "Optional Title")
