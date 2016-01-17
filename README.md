@@ -24,8 +24,10 @@
  * Needs to be either small or large depending on activity
      * small for quick activities: fast network scans, DoS, fast propagating worms
      * large for slow network scans, overall trends in a network
+
 ![Alt text](https://github.com/kulsoom-abdullah/NetworkSecurityVisualization/blob/master/screenshots/Slide05.png "Optional Title")
 ![Alt text](https://github.com/kulsoom-abdullah/NetworkSecurityVisualization/blob/master/screenshots/Slide06.png "Optional Title")
+
 ###### Related ￼Publications
 * K. Abdullah, G. Conti and R. Beyah. “A Visualization Framework for Self-monitoring of Web-based Information Disclosure” IEEE International Conference on Communications (ICC), May 2008. (Post PhD) http://bit.ly/1WfUbu1
 * K. Abdullah, G. Conti and E. Sobiesk. “Self-monitoring of Web-based Information Disclosure” Workshop on Privacy in the Electronic Society (WPES); October 2007. http://bit.ly/1WfUB3L Cited in: G. Conti; Googling Security [http://amzn.to/1NcestF], Addison Wesley; November 2008. (Post PhD)
